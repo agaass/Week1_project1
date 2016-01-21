@@ -4,7 +4,7 @@
 // =======================================================
 
 //1. Log your name to the console (as a string).
-console.log('ali');
+console.log('ali g');
 
 //2. Declare a variable called name, log it to the console.
 var name = ali;
